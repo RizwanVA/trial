@@ -1,0 +1,16 @@
+#counter-value {
+  font-size: 3.5rem;
+  font-weight: 800;
+  color: #9B6CFF;
+  margin: 1rem 0;
+  text-align: center;
+}
+.btn-group {
+  display: flex;
+  gap: 0.8rem;
+  justify-content: center;
+}
+
+body{
+    background-color: black;
+}
